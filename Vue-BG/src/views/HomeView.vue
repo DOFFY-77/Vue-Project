@@ -5,7 +5,7 @@ import JobLestings from "@/components/JobLestings.vue";
 </script>
 
 <template>
-<Hero title="Test title props" />
+<Hero />
 <HomeCard />
 <JobLestings :limit="3" :showButton="true" />
 </template>
