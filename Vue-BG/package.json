@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "primeicons": "^7.0.0",
-    "vue": "^3.5.12"
+    "vue": "^3.5.12",
+    "vue-router": "^4.5.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.14.0",
