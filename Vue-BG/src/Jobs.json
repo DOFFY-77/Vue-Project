@@ -111,6 +111,76 @@
         "contactEmail": "kywufyd@mailinator.com",
         "contactPhone": "+1 (592) 562-1964"
       }
+    },
+    {
+      "id": "b14e",
+      "type": "Full-Time",
+      "title": "Vue developer",
+      "description": "Consequatur occaeca",
+      "location": "Labore iste adipisic",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Rosa Blankenship Traders",
+        "description": "Voluptatibus duis si",
+        "contactEmail": "dygesopep@mailinator.com",
+        "contactPhone": "+1 (731) 895-2737"
+      }
+    },
+    {
+      "id": "f505",
+      "type": "Remote",
+      "title": "Isaiah Carpenter",
+      "description": "Aut eveniet praesen",
+      "location": "Iste aut quia duis o",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Lancaster Huber Trading",
+        "description": "Fugit eum proident",
+        "contactEmail": "foquviv@mailinator.com",
+        "contactPhone": "+1 (335) 304-5406"
+      }
+    },
+    {
+      "id": "57c7",
+      "type": "Internship",
+      "title": "Eagan Garrison",
+      "description": "Voluptatem Asperior",
+      "location": "Sit reiciendis enim ",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Vasquez Campos Plc",
+        "description": "Molestiae rerum earu",
+        "contactEmail": "kaqirimi@mailinator.com",
+        "contactPhone": "+1 (501) 487-7559"
+      }
+    },
+    {
+      "id": "7043",
+      "type": "Remote",
+      "title": "Jayme Farley",
+      "description": "Aspernatur in velit",
+      "location": "Quos omnis magna aut",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Burt Whitehead Traders",
+        "description": "Aute temporibus nost",
+        "contactEmail": "zejeguw@mailinator.com",
+        "contactPhone": "+1 (518) 607-7783"
+      }
+    },
+    {
+      "id": "1f9f",
+      "type": "Internship",
+      "title": "Shellie Richards",
+      "description": "Officia est provide",
+      "location": "Duis corrupti sunt ",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Mcintyre Erickson Inc",
+        "description": "Sed ipsa corrupti ",
+        "contactEmail": "kywatu@mailinator.com",
+        "contactPhone": "+1 (358) 438-8568"
+      }
     }
   ]
 }
